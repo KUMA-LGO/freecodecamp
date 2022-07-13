@@ -1,5 +1,6 @@
 {
   "author": "Luis Gördes",
+  "description": "This is suckie",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
